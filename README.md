@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+A web-based parking management application developed as a BTech CSE ADS & AA project.
 
-# Run and deploy your AI Studio app
+Live Website
 
-This contains everything you need to run your app locally.
+https://smart-parking-2026.ai.studio
 
-View your app in AI Studio: https://ai.studio/apps/60ef2eb5-bff9-4812-9bda-0c9c43fb98a6
+Features
 
-## Run Locally
+View available and occupied parking slots
 
-**Prerequisites:**  Node.js
+Book parking slots
 
+Manage vehicle entry and exit
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+FIFO waiting queue
+
+Search and sorting

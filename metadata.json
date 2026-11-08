@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Management System",
+  "description": "BTech CSE ADS & AA college project demonstration for smart parking slot management, FIFO waiting queue, search, sorting, and algorithmic complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
